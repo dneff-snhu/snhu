@@ -1,0 +1,6 @@
+Toto 47
+Oz 66
+Istanbul 57
+Lagos 81
+Shanghai 61
+Sydney 64
